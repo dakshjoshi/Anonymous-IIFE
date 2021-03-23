@@ -1,0 +1,46 @@
+body {
+  background-color: rgba(245, 245, 245, 0.336);
+  font-family: "Roboto", sans-serif;
+}
+
+.Answers {
+  border: 1px black solid;
+  font-family: sans-serif;
+  padding: 3px;
+  height: 200px;
+  font-family: "Roboto", sans-serif;
+}
+
+.AjeebForm {
+  border: 1px black solid;
+  position: absolute;
+  padding: 5px;
+}
+.RedHeading {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.firstLast {
+  width: 70px;
+  margin: 10px 10px 0px 10px;
+  display: inline-block;
+}
+#middle {
+  border: 1px transparent solid;
+}
+#heading1 {
+  margin-top: 5px;
+}
+#adressheading {
+  margin: 10px 10px 0px 10px;
+  width: 250px;
+}
+#middleBlack {
+  width: 70px;
+  margin: 10px 10px 0px 10px;
+  display: inline-block;
+}
+/* .tableHeading {
+  text-align: center;
+} */
